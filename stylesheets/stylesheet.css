@@ -386,6 +386,11 @@ Small Device Styles
     max-width: 480px;
   }
 
+  .xyz
+  {
+    float: left;
+  }
+
   #project_title {
   font-size: 32px;
   }
