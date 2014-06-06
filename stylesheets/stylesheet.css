@@ -297,6 +297,11 @@ Full-Width Styles
   padding: 50px 10px 30px 10px;
 }
 
+.xyz
+{
+    float: left;
+}
+
 #project_title {
   margin: 0;
   color: #fff;
@@ -384,11 +389,6 @@ Small Device Styles
   .inner {
     min-width: 320px;
     max-width: 480px;
-  }
-
-  .xyz
-  {
-    float: left;
   }
 
   #project_title {
